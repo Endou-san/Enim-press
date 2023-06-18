@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "549517049446",
+    "project_id": "enim-press",
+    "storage_bucket": "enim-press.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549517049446:android:4dca40231a41b2cfbff7a7",
+        "android_client_info": {
+          "package_name": "com.example.enim_press"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549517049446-5olpv8kpill553u2i4l18ljt4d9682kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWxFunkbiVHt0aCiFsYrg-ALsV1gWsLsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549517049446-5olpv8kpill553u2i4l18ljt4d9682kt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549517049446-gc1mre3560v0adt2q4padj4h56dl6rsp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enimPress"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

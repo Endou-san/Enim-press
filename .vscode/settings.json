@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.configureOnOpen": false,
+    "git.ignoreLimitWarning": true,
+    "cmake.sourceDirectory": "C:/Users/hp/source/repos/projet_final/newsfeed-main/build/windows/extracted/firebase_cpp_sdk"
+}
